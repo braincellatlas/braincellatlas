@@ -14,7 +14,7 @@ module.exports = {
         "value": "donor_ID"
       },
       {
-        "label": "Gender",
+        "label": "Sex",
         "value": "donor_gender"
       },
       {
@@ -72,7 +72,7 @@ module.exports = {
         "value": "donor_ID"
       },
       {
-        "label": "Gender",
+        "label": "Sex",
         "value": "donor_gender"
       },
       {
@@ -130,7 +130,7 @@ module.exports = {
         "value": "donor_ID"
       },
       {
-        "label": "Gender",
+        "label": "Sex",
         "value": "donor_gender"
       },
       {
@@ -188,7 +188,7 @@ module.exports = {
         "value": "donor_ID"
       },
       {
-        "label": "Gender",
+        "label": "Sex",
         "value": "donor_gender"
       },
       {
@@ -250,7 +250,7 @@ module.exports = {
         "value": "donor_ID"
       },
       {
-        "label": "Gender",
+        "label": "Sex",
         "value": "donor_sex"
       },
       {

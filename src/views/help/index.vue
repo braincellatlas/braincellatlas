@@ -297,7 +297,7 @@ export default {
     desc: "Author specified donor IDs, which are indicated in the original publications."
   },
   {
-    name: "gender",
+    name: "sex",
     desc: "F = Female; M = Male; Unclassified = Unknown."
   },
   {
