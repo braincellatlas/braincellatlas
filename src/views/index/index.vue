@@ -8,7 +8,7 @@
     <div class="mtit">
         <div class="t">Cite us</div>
         <div class="f">
-          <p>Chen, Xinyue & Huang, Yin & Huang, Ziliang & Xu, Lahong & Huang, Liangfeng & Ye, Mingli & You, Renke & Zhang, Xuegong & Miao, Zhichao*. (2023). Brain Cell Atlas: An Integrative Ensemble of Cell Transcriptomes Across Human Brain Regions. 10.21203/rs.3.rs-3221500/v1. </p>
+          <p>Xinyue Chen#, Yin Huang#, Liangfeng Huang#, Ziliang Huang#, Zhao-Zhe Hao#, Lahong Xu, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu*, Zhichao Miao*. A brain cell atlas integrating single-cell transcriptomes across human brain regions. Nat Med (2024). <a href="https://doi.org/10.1038/s41591-024-03150-z">https://doi.org/10.1038/s41591-024-03150-z</a>.</p>
         </div>
       </div>
     </div>

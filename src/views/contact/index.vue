@@ -9,7 +9,7 @@
       <div class="mtit">
         <div class="t">Reference</div>
         <div class="f">
-          <p>BrainCellAtlas: a large-scale single-cell atlas of integrative human brain regions (2023) Xinyue Chen, Ziliang Huang, Yin Huang, Lahong Xu, Mingli Ye, Renke You, Xuegong Zhang, Zhichao Miao*</p>
+          <p>Xinyue Chen#, Yin Huang#, Liangfeng Huang#, Ziliang Huang#, Zhao-Zhe Hao#, Lahong Xu, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu*, Zhichao Miao*. A brain cell atlas integrating single-cell transcriptomes across human brain regions. Nat Med (2024). <a href="https://doi.org/10.1038/s41591-024-03150-z">https://doi.org/10.1038/s41591-024-03150-z</a>.</p>
         </div>
       </div>
       <el-divider></el-divider>
