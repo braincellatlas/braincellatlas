@@ -6,7 +6,9 @@ import "./style/global.css"
 import ElementUI from "element-ui";
 import _ from 'lodash'
 import "element-ui/lib/theme-chalk/index.css";
-Vue.use(ElementUI, { size: "medium", zIndex: 3000 });
+import locale from 'element-ui/lib/locale/lang/en'
+
+Vue.use(ElementUI, { size: "medium", zIndex: 3000, locale });
 Vue.config.productionTip = false;
 Vue.prototype._ = _;
 import Components from "./components";
